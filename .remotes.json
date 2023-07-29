@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ibis.iSDM",
+    "url": "https://github.com/iiasa/ibis.iSDM",
+    "via": ["insights"],
+    "from": "insights"
+  }
+]
