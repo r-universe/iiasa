@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/iiasa/iiasa.r-universe.dev
 	branch = HEAD
+[submodule "ibis.iSDM"]
+	path = ibis.iSDM
+	url = https://github.com/iiasa/ibis.iSDM
+[submodule "insights"]
+	path = insights
+	url = https://github.com/iiasa/insights
+[submodule "rN2000"]
+	path = rN2000
+	url = https://github.com/iiasa/rN2000
