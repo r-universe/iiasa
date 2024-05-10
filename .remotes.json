@@ -4,5 +4,11 @@
     "url": "https://github.com/iiasa/ibis.iSDM",
     "via": ["insights"],
     "from": "insights"
+  },
+  {
+    "package": "scampr",
+    "url": "https://github.com/ElliotDovers/scampr",
+    "via": ["ibis.iSDM"],
+    "from": "ibis.iSDM"
   }
 ]

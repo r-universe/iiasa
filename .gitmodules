@@ -11,3 +11,7 @@
 [submodule "rN2000"]
 	path = rN2000
 	url = https://github.com/iiasa/rN2000
+[submodule "scampr"]
+	path = scampr
+	url = https://github.com/ElliotDovers/scampr
+	registered = false
