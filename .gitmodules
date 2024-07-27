@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/iiasa/iiasa.r-universe.dev
 	branch = HEAD
+[submodule "BioCal"]
+	path = BioCal
+	url = https://github.com/iiasa/BioCal
+[submodule "ForestScope_R"]
+	path = ForestScope_R
+	url = https://github.com/iiasa/ForestScope_sc/tree/main/ForestScope_R
 [submodule "ibis.iSDM"]
 	path = ibis.iSDM
 	url = https://github.com/iiasa/ibis.iSDM
