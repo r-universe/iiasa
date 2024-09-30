@@ -10,5 +10,11 @@
     "url": "https://github.com/ElliotDovers/scampr",
     "via": ["ibis.iSDM"],
     "from": "ibis.iSDM"
+  },
+  {
+    "package": "scampr",
+    "url": "https://github.com/ElliotDovers/scampr",
+    "via": ["insights", "ibis.iSDM"],
+    "from": "insights"
   }
 ]
