@@ -5,12 +5,18 @@
 [submodule "BioCal"]
 	path = BioCal
 	url = https://github.com/iiasa/BioCal
+[submodule "ODPSCP"]
+	path = ODPSCP
+	url = https://github.com/iiasa/ODPSCP
 [submodule "ibis.iSDM"]
 	path = ibis.iSDM
 	url = https://github.com/iiasa/ibis.iSDM
 [submodule "insights"]
 	path = insights
 	url = https://github.com/iiasa/insights
+[submodule "mapspam2globiom"]
+	path = mapspam2globiom
+	url = https://github.com/iiasa/mapspam2globiom
 [submodule "rN2000"]
 	path = rN2000
 	url = https://github.com/iiasa/rN2000
