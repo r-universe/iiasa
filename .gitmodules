@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/iiasa/iiasa.r-universe.dev
 	branch = HEAD
+[submodule "BNRTools"]
+	path = BNRTools
+	url = https://github.com/iiasa/BNRTools
 [submodule "BioCal"]
 	path = BioCal
 	url = https://github.com/iiasa/BioCal
