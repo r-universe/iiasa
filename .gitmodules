@@ -11,6 +11,9 @@
 [submodule "ODPSCP"]
 	path = ODPSCP
 	url = https://github.com/iiasa/ODPSCP
+[submodule "hibiiscus"]
+	path = hibiiscus
+	url = https://github.com/iiasa/hibiiscus
 [submodule "ibis.iSDM"]
 	path = ibis.iSDM
 	url = https://github.com/iiasa/ibis.iSDM
